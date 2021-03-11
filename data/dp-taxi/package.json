@@ -1,0 +1,18 @@
+{
+  "name": "dp-taxi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Geoff Hollingworth <eusholli@gmail.com> (https://linkedin.com/in/geoffhollingworth)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "7.21.0"
+  },
+  "dependencies": {
+    "faker": "5.4.0"
+  }
+}
