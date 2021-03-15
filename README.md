@@ -45,6 +45,10 @@ Elite Cars cannot thank you enough, you have enabled them to avoid catastrophic 
 
 Demand is so high in New York that they are needing to expand the number of drivers, but they want to do this intelligently to recruit drivers that live close to the actual demand. This way they enable their drivers to perform more trips and also reduce wait times for their customers, who are very short on patience. But the tabloid press are still trying to infiltrate Elite Cars to get dirt on their very exclusive customers and a perfect way to learn who they are is by getting a job as a business analyst inside the company. The only reason the customers are anonymous today is because of your fine work. Your fellow executive team is now asking you to enable operations and internal data sharing so the data analytics teams can run their models on the real data but never know anything about any existing customers or drivers. Remember - if they know the drivers then they can also start stalking them!
 
+### Government Access to Data
+
+You have received a request to share all your drive data details with the local authorities. This is a requirement placed on all companies operating vehicles for hire, to enable the cities and state to make improvement plans for future transportation investments and policy. You are forced to share data but you cannot compromise any confidentiality of either your customers or drivers with this request.
+
 ### International Expansion
 
 The investors will not wait any longer and Elite Cars has to launch in Paris in the next quarter. The executive team has asked you to ensure that with international expansion there is no compromise to any of the implemented privacy and security and that Elite Cars complies with all required regulation.
