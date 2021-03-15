@@ -26,13 +26,16 @@ Your job is to apply all of your skills and training to transform Elite Cars' da
 
 [Data Protocol](https://dataprotocol.com) is here to help guide you through your necessary journey and make sure you are never alone.
 
-## Baseline Activities
+## Build Modern Data Management and Privacy
 
-1. Understanding data classification and how to implement a company wide policy
-2. Execute a data inventory to understand and confirm what data exists where
-3. Design a data minimization and segmentation strategy
-4. Re-design the database schemas and existing data to be more appropriate and secure
-5. Secure the data and enable appropriate access and logging in the data operations
+1. Data Classification
+2. Data Audit
+3. Data Minimisation
+4. Data Storage
+5. Data Access
+6. Data Logging
+7. Data Security
+8. Data Sharing
 
 ## Advanced Scenarios
 
