@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "gender": "M",
+        "name": "Austin Rempel",
+        "ssn": "714-4-9653",
+        "photo": "https://s3.amazonaws.com/uifaces/faces/twitter/jnmnrd/128.jpg",
+        "email": "Vida.Swift58@hotmail.com",
+        "street": "6999 Malachi Ramp",
+        "city": "East Aaron",
+        "state": "NY",
+        "zipcode": 6390,
+        "username": "Marian.Leffler",
+        "password": "HkVoqwopS4uSI9f",
+        "dob": "1948-11-21T12:31:02.197Z",
+        "bic": "PBIIKZA1",
+        "routing": "213024093",
+        "dlstate": "WI",
+        "dlnumber": 691626583,
+        "vin": "001H43U4U3S632152",
+        "licenceplate": "EJ41KQX"
+    }
+]
