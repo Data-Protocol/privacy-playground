@@ -14,11 +14,15 @@ However they are very worried. Their whole business is dependant on the keeping 
 
 To avoid potential catastrophe and to avoid delaying their expansion into more cities, domestically and internationally, they have brought **you** in as their chosen data privacy and security expert to remove any potential problems, unknowns and future risks.
 
-Because of the short time to market there is no product documentation whatsover. They are aware of the existing mysql database structure and they have given you the mysql root user and password, which is the only credential that they know exists.
+From a third party perspective, they tell you they have used federated login to simplify the signup and, [Google Maps SDK](https://developers.google.com/maps/documentation) to display mapping information and for site analytics they use [Google Analytics](https://marketingplatform.google.com/about/analytics/) and [Google Firebase for augmented analytics understanding](https://firebase.google.com/products/analytics). They are not aware of any other 3rd party dependancies other than AWS for hosting of database and app executables.
+
+They are aware of the existing mysql database structure and they have given you the mysql root user and password, which is the only credential that they know exists. They tell you the data currently resides in an AWS US-East-1 RDS database.
 
 ![MySQL Database Schema](./images/dbSchema.png)
 
 They tell you that to their knowledge, this is the only data that exists, that there are 300 drivers, nearly 4100 registrated celebrities that have taken 100,000 trips to date. You know Elite Cars have a massive problem when they gave you the mysql root password of 'root' and you immediately could access Mel Gibson's password in the clear. Here are examples of the records you found.
+
+Because of the short time to market there is no product documentation whatsover.
 
 ![Example Database Records](./images/dbRecords.png)
 
@@ -26,16 +30,17 @@ Your job is to apply all of your skills and training to transform Elite Cars' da
 
 [Data Protocol](https://dataprotocol.com) is here to help guide you through your necessary journey and make sure you are never alone.
 
-## Build Modern Data Management and Privacy
+## Build Modern Data Management and Privacy (Be a Data Master!)
 
-1. Data Classification
-2. Data Audit
-3. Data Minimisation
-4. Data Storage
-5. Data Access
-6. Data Logging
-7. Data Security
-8. Data Sharing
+1. PII Identification and Classification Master
+2. Data Discovery Master
+3. Data Minimisation Master
+4. Data Storage Master
+5. Data Access Master
+6. Data Logging Master
+7. Data Security Master
+8. Data Anonymization Master
+9. 3PP SDK Master
 
 ## Advanced Scenarios
 
