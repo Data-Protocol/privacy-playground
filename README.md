@@ -10,7 +10,7 @@ With the amazing success the founding team are already being asked to immediatel
 
 However they are very worried. Their whole business is dependant on the keeping the identities and knowlege of their clients completely confidential and suddenly the whole world is interested in knowing who their customers are and especially where they are going. Nobody in the founding team has any experience in data security or privacy, and nobody has focused on anything other than building a working system to see if people will use it.
 
-## You
+## You - The Data Privacy Leader
 
 To avoid potential catastrophe and to avoid delaying their expansion into more cities, domestically and internationally, they have brought **you** in as their chosen data privacy and security expert to remove any potential problems, unknowns and future risks.
 
