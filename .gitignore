@@ -105,3 +105,6 @@ dist
 
 # Jupyter Lab status
 .ipynb_checkpoints
+
+#virtual python env
+venv/
